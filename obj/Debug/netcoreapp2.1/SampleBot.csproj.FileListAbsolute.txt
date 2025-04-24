@@ -1,0 +1,15 @@
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\SampleBot.deps.json
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\SampleBot.runtimeconfig.json
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\SampleBot.runtimeconfig.dev.json
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\SampleBot.dll
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\bin\Debug\netcoreapp2.1\SampleBot.pdb
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.csprojAssemblyReference.cache
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.csproj.CoreCompileInputs.cache
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.RazorAssemblyInfo.cache
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.RazorAssemblyInfo.cs
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.AssemblyInfoInputs.cache
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.AssemblyInfo.cs
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.RazorTargetAssemblyInfo.cache
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.dll
+C:\Users\1931556\Downloads\CopilotStudioSamples-main1\CopilotStudioSamples-main\RelayBotSample\obj\Debug\netcoreapp2.1\SampleBot.pdb
